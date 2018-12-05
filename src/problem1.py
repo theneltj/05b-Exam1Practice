@@ -417,7 +417,7 @@ if USE_COLORING:
     # noinspection PyShadowingBuiltins
     print = testing_helper.print_colored
 else:
-    # noinspection PyShadowingBuiltins
+    # noinspection PyShadowingBuiltins 
     print = testing_helper.print_uncolored
 
 # -----------------------------------------------------------------------------
